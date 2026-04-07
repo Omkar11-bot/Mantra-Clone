@@ -47,7 +47,7 @@ bagSummary.innerHTML=`
 </span>
             </div>
           </div>
-        <button type="button" class="btn-place-order" onclick="alert('Order Placed Successfully! 🎉')">
+        <button  class="btn-place-order" onclick="alert('Order Placed Successfully! 🎉')">
   <div class="css-xjhrni">PLACE ORDER</div>
 </button>`
 }
